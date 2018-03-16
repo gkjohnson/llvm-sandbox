@@ -2,8 +2,12 @@
 Sandbox for notes and experimentation with LLVM
 
 ## Resources
-https://llvm.org/docs/tutorial/
+[Website](https://llvm.org/)
 
-https://en.wikipedia.org/wiki/LLVM
+[Tutorial](https://llvm.org/docs/tutorial/)
 
-https://llvm.org/
+[Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
+[Git Repo Mirror](https://github.com/llvm-mirror/llvm)
+
+[Julia LLVM Write-up](http://goodmath.scientopia.org/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/)
