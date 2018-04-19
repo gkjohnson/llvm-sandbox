@@ -14,6 +14,10 @@ Sandbox for notes and experimentation with LLVM
 
 [Julia LLVM Write-up](http://goodmath.scientopia.org/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/)
 
+[Mono Uses LLVM](https://github.com/mono/mono)
+
+[Mono LLVM Docs](http://www.mono-project.com/docs/advanced/mono-llvm/)
+
 ## Videos
 
 [Overview](https://www.youtube.com/watch?v=a5-WaD8VV38)
