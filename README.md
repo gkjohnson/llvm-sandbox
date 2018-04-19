@@ -14,9 +14,14 @@ Sandbox for notes and experimentation with LLVM
 
 [Julia LLVM Write-up](http://goodmath.scientopia.org/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/)
 
+[LLVM Overview](https://github.com/archfrog/mapping-high-level-constructs-to-llvm-ir)
+
+**Mono Questions**
 [Mono Uses LLVM](https://github.com/mono/mono)
 
 [Mono LLVM Docs](http://www.mono-project.com/docs/advanced/mono-llvm/)
+
+[Mono to IR on StackOverflow](https://stackoverflow.com/questions/5054938/how-do-i-translate-cil-to-llvm-il?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 
 ## Videos
 
