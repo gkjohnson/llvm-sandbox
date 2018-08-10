@@ -29,3 +29,7 @@ Sandbox for notes and experimentation with LLVM
 [Overview](https://www.youtube.com/watch?v=a5-WaD8VV38)
 
 [Setting up LLVM](https://www.youtube.com/watch?v=uZI_Qla4pNA)
+
+## Installing Clang
+
+http://blog.johannesmp.com/2015/09/01/installing-clang-on-windows-pt2/
